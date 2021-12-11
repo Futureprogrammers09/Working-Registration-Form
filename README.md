@@ -5,6 +5,6 @@ In this html form you will be able to send data to your google spreed sheet Prog
 
 Requirement
 - https://www.apispreadsheets.com/
-- use the cdn link of jquery. ( https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
-    crossorigin="anonymous )
+- use the cdn link of jquery. ( <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+    crossorigin="anonymous"> </script> )
 - Import the cdn link directely to use index.html file.
